@@ -2,6 +2,7 @@
 from random import randint
 from time import sleep
 
+# Código para exeplificação do jogo pedra papel tesoura
 tupla = ('PEDRA', 'PAPEL', 'TESOURA')
 computador = randint(0, 2)
 print('Suas opções: \n[ 0 ] PEDRA \n[ 1 ] PAPEL \n[ 2 ] TESOURA')
