@@ -1,7 +1,9 @@
+# Importações para o Código
 from random import randint
 from time import sleep
 
-tupla = ('PEDRA', 'PAPEL', 'TESOURA')
+
+tupla = ('PEDRA', 'PAPEL', 'TESOURA') # Adicionando Tupla
 computador = randint(0, 2)
 print('Suas opções: \n[ 0 ] PEDRA \n[ 1 ] PAPEL \n[ 2 ] TESOURA')
 jogador = int(input('Qual é a sua jogada ?'))
