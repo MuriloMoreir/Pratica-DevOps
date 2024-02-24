@@ -1,4 +1,4 @@
-from random import randint
+from random import randint # a
 from time import sleep
 
 tupla = ('PEDRA', 'PAPEL', 'TESOURA')
