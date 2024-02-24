@@ -1,3 +1,4 @@
+# Importando bibliotecas para o código
 from random import randint
 from time import sleep
 
